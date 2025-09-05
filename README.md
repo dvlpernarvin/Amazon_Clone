@@ -170,9 +170,3 @@ DATABASE_URL=your_database_url # SQLite for dev, Postgres/Supabase for prod
 - Some UI inspiration from [Dribbble](https://dribbble.com/)
 
 ---
-
----
-
-## ⚠️ Disclaimer
-
-This project is for educational and demonstration purposes only. It is not affiliated with, endorsed by, or connected to Amazon in any way.
